@@ -1,0 +1,11 @@
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.exe
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.deps.json
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.runtimeconfig.json
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.runtimeconfig.dev.json
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.dll
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\bin\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.pdb
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\obj\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.csprojAssemblyReference.cache
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\obj\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.AssemblyInfoInputs.cache
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\obj\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.AssemblyInfo.cs
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\obj\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.dll
+C:\Users\gajulan1\Documents\gajulan1\LeetCode\Min-Cost-Climbing-Stairs\obj\Debug\netcoreapp3.1\Min-Cost-Climbing-Stairs.pdb
